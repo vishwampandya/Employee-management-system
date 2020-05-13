@@ -9,7 +9,7 @@ Compile all the classes in a sequential manner and run the front_page.java file 
 # Database Schema
   there are two tables 
   1) login
-    where admin username and password is stored.
+    --where admin username and password is stored.
     +----------+-------------+------+-----+---------+-------+
     | Field    | Type        | Null | Key | Default | Extra |
     +----------+-------------+------+-----+---------+-------+
@@ -18,7 +18,7 @@ Compile all the classes in a sequential manner and run the front_page.java file 
     +----------+-------------+------+-----+---------+-------+
     
   2) employee
-    where all the employee details are stored.
+    --where all the employee details are stored.
     +-----------+--------------+------+-----+---------+-------+ 
     | Field     | Type         | Null | Key | Default | Extra |
     +-----------+--------------+------+-----+---------+-------+
